@@ -28,7 +28,7 @@ export default function Home() {
     <Teacher/>
     <Student/>
    <MoreInfoModal/>
-   <Cta/>
+   
    <Footer/>
     </div>
   );

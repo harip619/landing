@@ -4,28 +4,28 @@ import { BsFillPlusCircleFill } from 'react-icons/bs'
 const MoreInfoModal = () => {
   const info=[
     {
-      title:'How the first lesson with teacher will be?',
-      des:'By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online.'
+      title:'What is Koolie?',
+      des:'Koolie offers services that allows users to send packages, documents, or items to anyone within a city .'
     },
     {
-      title:'How the first lesson with teacher will be?',
-      des:'By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online.'
+      title:'How does Koolie work?',
+      des:'Users can request a delivery partner through the Koolie Web app. They input the pickup and drop-off locations, along with details of the item to be delivered. A  delivery partner then picks up the item and delivers it to the specified location.'
     },
     {
-      title:'How the first lesson with teacher will be?',
-      des:'By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online.'
+      title:'What can I send using Koolie ?',
+      des:'Koolie  can be used to send a wide range of items, including parcels, documents, gifts, groceries, and more. However, there are certain restrictions on items that can be delivered, such as perishable goods, illegal items, and hazardous materials.'
     },
     {
-      title:'How the first lesson with teacher will be?',
-      des:'By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online.'
+      title:'What all services are provided by the Koolie?',
+      des:'Koolie delivers the package in one of the three ways as selected by the user - In bikes, In Minivans And In Trucks.'
     },
     {
-      title:'How the first lesson with teacher will be?',
-      des:'By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online.'
+      title:'How much does Koolie cost??',
+      des:'The cost of a Koolie  delivery depends on factors such as the distance traveled, the size and weight of the item, and any additional services requested (such as priority delivery). The exact pricing is displayed in the app before confirming the delivery'
     },
     {
-      title:'How the first lesson with teacher will be?',
-      des:'By the end of the trial lesson, you will be able to determine for yourself whether this kind of online lesson is right for you or not. In our experience, most students appreciate the benefits of online education and decide to study online.'
+      title:"What should I do if there's an issue with my Koolie delivery?",
+      des:'If you encounter any problems with your Koolie  delivery, such as a delay or damaged item, you can contact Koolie customer support through the app for assistance. They will help resolve the issue promptly.'
     },
   ]
   return (
