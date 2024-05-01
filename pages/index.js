@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import MoreInfoModal from "../components/MoreInfoModal";
 import MoreInfo from "../components/MoreInfoModal";
-import Navbar from "../components/Navbar";
+import LandingNavbar from "../components/LandingNavbar";
 import Student from "../components/Student";
 import Teacher from "../components/Teachers";
 import Values from "../components/Values";

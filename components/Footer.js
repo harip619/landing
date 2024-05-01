@@ -11,7 +11,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col items-center lg:items-start gap-5">
           <p className="text-xl font-medium">Company</p>
-          <p className="text-base">About Us</p>
+          <a href="#about"><p className="text-base">About Us</p></a>
           <p className="text-base">Blog</p>
           <p className="text-base">Support</p>
         
@@ -20,7 +20,6 @@ const Footer = () => {
           <p className="text-xl font-medium">Quick Links</p>
           <p className="text-base">Services</p>
           <p className="text-base">Pricing</p>
-          <p className="text-base">Blog</p>
         </div>
         <div className="flex flex-col items-center lg:items-start gap-5">
           <p className="text-xl font-medium">Legal</p>
@@ -28,9 +27,9 @@ const Footer = () => {
           <p className="text-base">Privacy policy</p>
         </div>
         <div className="flex items-center gap-5">
-                <BsFacebook className="text-3xl text-gray-500"/>
-                <BsTwitter className="text-3xl text-gray-500"/>
-                <BsInstagram className="text-3xl text-gray-500"/>
+                <a href="https://www.instagram.com/alias_benny?igsh=MTFoaWZ4b3p3enplMQ==" target="_blank"><BsFacebook className="text-3xl text-gray-500"/></a>
+                <a href="https://www.instagram.com/alias_benny?igsh=MTFoaWZ4b3p3enplMQ==" target="_blank"><BsTwitter className="text-3xl text-gray-500"/></a>
+                <a href="https://www.instagram.com/alias_benny?igsh=MTFoaWZ4b3p3enplMQ==" target="_blank"><BsInstagram className="text-3xl text-gray-500"/></a>
         </div>
       </div>
     </div>

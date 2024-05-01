@@ -16,7 +16,7 @@ const Student = () => {
 
   return (
     <Slider {...settings}>
-      <div className="container mx-auto">
+      <div className="container mx-auto" id="review">
         <p className="text-gray-500 text-base lg:text-xl font-medium uppercase">
           Thanks to you
         </p>
